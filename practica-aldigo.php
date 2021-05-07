@@ -2,6 +2,7 @@
 
 /**
  * Esta función Suma, resta y multiplica dos números dados
+ * Esto es una modificación
  *
  * @author Ángel Luis Díaz González
  * @version 1.2
